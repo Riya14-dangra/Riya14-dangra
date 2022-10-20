@@ -1,30 +1,14 @@
 ### Hi Amigos👋, I'm Riya Dangra 
 
-<!--
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 <p align="center">
   <img width="1000px" height="200px" src="readme.img" alt="hello">
 </p>
-<h3 align="center">A girl exploring the stuffs!!!</h3>
+<h3 align="center">A Girl Exploring the Stuffs!!!</h3>
 
   <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
-- 🏫 I,m 3rd year student pursuing Bachelors in Computer Science & Engineering 
-- 🌱 I’m currently learning **Data Structures and Algorithms with Java and React JS**
+- 🏫 I'm 3rd year student pursuing Bachelors in Computer Science & Engineering. 
+- 🌱 I'm currently learning **React JS**
 - 💻 I'm also  **Social Media Head** at E-cell SSGMCE .
 
 
@@ -36,8 +20,8 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/Riyadangra3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="riyadangra" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/riya-dangra-a22325213/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="riyadangra" height="30" width="40" /></a>
+<a href="https://twitter.com/Riyadangra3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Riya14-dangra" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/riya-dangra-a22325213/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Riya14-dangra" height="30" width="40" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
