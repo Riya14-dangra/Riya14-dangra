@@ -1,7 +1,7 @@
 ### Hi Amigos👋, I'm Riya Dangra 
 
 <p align="center">
-  <img width="1000px" height="200px" src="readme.img" alt="hello">
+  <img width="1000px" height="200px" src="readme.jpg" alt="hello">
 </p>
 <h3 align="center">A Girl Exploring the Stuffs!!!</h3>
 
