@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **riyadangra1418@gmail.com**
 
-- ⚡ Fun fact **I think I am Funny XD**
+- ⚡ Fun fact **I think I am Funn XD**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
