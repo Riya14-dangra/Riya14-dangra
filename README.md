@@ -1,4 +1,4 @@
-### Hi Amigos👋, I'm Riya Dangra 
+### Hi Amigos👋, I'm Riya Govind Dangra 
 
 <p align="left">
   <img width="1000px" height="200px" src="readme.jpg" alt="hello">
